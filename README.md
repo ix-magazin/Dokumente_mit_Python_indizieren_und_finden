@@ -1,5 +1,5 @@
 # Dokumente_mit_Python_indizieren_und_finden
-Jupyter-Notebooks zum [Praxis-Artikel](https://www.heise.de/select/ix/2024/5/2401814023664104544) von Dr. Roland Pleger, erschienen in iX [05/2024](https://www.heise.de/select/ix/2024/5)
+Jupyter-Notebooks zum [Praxis-Artikel](https://www.heise.de/select/ix/2024/5/2401814023664104544) von Dr. Roland Pleger, erschienen in iX [05/2024](https://www.heise.de/select/ix/2024/5).
 
 # iX-tract
 - Sind Dokumentensammlungen zu klein, versagen Methoden, die auf neuronalen Netzen basieren. Es verbleiben die klassischen Methoden wie TF-IDF, die auf einer statistischen Analyse beruhen.
